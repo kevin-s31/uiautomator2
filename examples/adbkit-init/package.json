@@ -9,7 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "adbkit": "^2.11.0",
+
+    "node-forge@0.10.0",    
     "minimist": "^1.2.0"
   }
 }
